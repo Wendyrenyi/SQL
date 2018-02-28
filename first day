@@ -21,3 +21,6 @@ WHERE
   department = 10
   OR commission IS NOT NULL
   OR department = 20 AND earn <= 2000;
+
+
+、kjkjn
